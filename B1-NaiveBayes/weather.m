@@ -1,0 +1,1 @@
+#nang=1/mua  nong=1/mat  cao=1/binhthuong  gio=1/khonggio  yes=1/no
